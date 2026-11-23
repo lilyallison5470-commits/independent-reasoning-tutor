@@ -1,0 +1,12 @@
+# Local system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local secrets and personal learning records
+.env
+.env.*
+!.env.example
+personal-backup/
+private/
+learning-notes/
